@@ -1,0 +1,16 @@
+openai
+langchain
+faiss-cpu
+streamlit
+duckdb
+pandas
+tqdm
+torch
+transformers
+sentence-transformers
+faiss-cpu
+duckdb
+streamlit
+pandas
+text-generation
+huggingface_hub
